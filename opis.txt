@@ -1,0 +1,1 @@
+ovo je neki fajl koji ne bi trebalo da bude deo abapgit-a
