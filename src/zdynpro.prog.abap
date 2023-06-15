@@ -25,3 +25,7 @@ MODULE user_command_9000 INPUT.
       LEAVE TO SCREEN 0.
   ENDCASE.
 ENDMODULE.
+
+FORM racunaj.
+  " Ovo je forma za kalkulaciju.
+ENDFORM.
