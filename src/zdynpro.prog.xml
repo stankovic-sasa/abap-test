@@ -48,6 +48,22 @@
       <RPY_DYFATC>
        <CONT_TYPE>SCREEN</CONT_TYPE>
        <CONT_NAME>SCREEN</CONT_NAME>
+       <TYPE>TEMPLATE</TYPE>
+       <NAME>GV_TEST_1</NAME>
+       <TEXT>____________________________________________________________________________________________________________________________________</TEXT>
+       <ROLLING>X</ROLLING>
+       <LINE>005</LINE>
+       <COLUMN>003</COLUMN>
+       <LENGTH>255</LENGTH>
+       <VISLENGTH>026</VISLENGTH>
+       <HEIGHT>001</HEIGHT>
+       <FORMAT>STRG</FORMAT>
+       <INPUT_FLD>X</INPUT_FLD>
+       <OUTPUT_FLD>X</OUTPUT_FLD>
+      </RPY_DYFATC>
+      <RPY_DYFATC>
+       <CONT_TYPE>SCREEN</CONT_TYPE>
+       <CONT_NAME>SCREEN</CONT_NAME>
        <TYPE>PUSH</TYPE>
        <NAME>PB_EXIT</NAME>
        <TEXT>EXIT___________</TEXT>
