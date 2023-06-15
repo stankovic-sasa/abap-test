@@ -94,6 +94,21 @@
       <RPY_DYFATC>
        <CONT_TYPE>SCREEN</CONT_TYPE>
        <CONT_NAME>SCREEN</CONT_NAME>
+       <TYPE>PUSH</TYPE>
+       <NAME>BLA_BLA</NAME>
+       <TEXT>bla_bla_bla____________</TEXT>
+       <LINE>007</LINE>
+       <COLUMN>027</COLUMN>
+       <LENGTH>023</LENGTH>
+       <VISLENGTH>023</VISLENGTH>
+       <HEIGHT>001</HEIGHT>
+       <PUSH_FCODE>EXIT</PUSH_FCODE>
+       <FORMAT>CHAR</FORMAT>
+       <REQU_ENTRY>N</REQU_ENTRY>
+      </RPY_DYFATC>
+      <RPY_DYFATC>
+       <CONT_TYPE>SCREEN</CONT_TYPE>
+       <CONT_NAME>SCREEN</CONT_NAME>
        <TYPE>OKCODE</TYPE>
        <NAME>OK_CODE</NAME>
        <TEXT>____________________</TEXT>
