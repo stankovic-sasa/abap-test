@@ -5,7 +5,7 @@
 *&---------------------------------------------------------------------*
 REPORT zdynpro.
 
-DATA: gv_test TYPE string VALUE 'ovo je test',
+DATA: gv_test TYPE string VALUE 'ovo je test', " ovo je neka labela
       gv_test_1 TYPE string VALUE 'mare care',
       ok_code TYPE sy-ucomm.
 
