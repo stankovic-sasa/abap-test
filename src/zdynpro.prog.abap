@@ -5,8 +5,8 @@
 *&---------------------------------------------------------------------*
 REPORT zdynpro.
 
-DATA: gv_test TYPE string VALUE 'ovo je test', " ovo je neka labela
-      gv_test_1 TYPE string VALUE 'mare care',
+DATA: gv_test TYPE string VALUE 'ovo je test',
+      gv_test_1 TYPE string VALUE 'mare care',  " Ovo je dodao SStanković, komentarisao DMarković
       ok_code TYPE sy-ucomm.
 
 CALL SCREEN 9000.
