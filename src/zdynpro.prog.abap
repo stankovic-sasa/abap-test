@@ -19,7 +19,9 @@ ENDMODULE.
 
 MODULE user_command_9000 INPUT.
   CASE ok_code.
-    WHEN 'EXIT' OR 'BACK' OR 'CANCEL'.
+    WHEN 'EXIT' OR
+         'BACK' OR
+         'CANCEL'.
       LEAVE TO SCREEN 0.
   ENDCASE.
 ENDMODULE.
